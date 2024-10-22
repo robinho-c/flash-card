@@ -1,18 +1,24 @@
 criaCartao(
-'Programaçao',
-'O que é Python',
-'O Python é uma linguagem de programaçao'
-)
-
-criaCartao(
-'Geografia',
-'Qual é a capital da França?',
-'A capital da França é Paris'
-
-)
-
-criaCartao(
-'Programaçao',
-'O que é uma função?',
-'Uma função é um bloco de código que executa alguma tarefa'
-)
+    'futebol',
+    'Qual jogador ativo hoje em dia tem mais titúlos?',
+    'Lionel Messi.',
+  )
+  
+  criaCartao(
+    'futebol',
+    'Qual segundo jogador com mais titúlos atualmente?',
+    'Cistiano Ronaldo.',
+  )
+  
+  criaCartao(
+    'futebol',   
+    'Quantos titúlos o Messi tem a mas que o Cristiano Ronaldo?',
+    'Nove titúlos.',
+  )
+  
+  criaCartao(
+    'futebol',
+    'Qual jogador com mais lesão atualmente?',
+    'Neymar, com 29 lesões.',
+  
+  )
